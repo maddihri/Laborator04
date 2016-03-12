@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">" Contacts Manager"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hide_additional_fields">Hide Additional Fields</string>
+    <string name="show_additional_fields">Show Additional Fields</string>
+    <string name="phone_error">Phone number empty!</string>
+
+</resources>
